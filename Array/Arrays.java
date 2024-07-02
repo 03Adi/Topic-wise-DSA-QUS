@@ -1,3 +1,4 @@
+package Array;
 ///******Sub Array problem ******///
 
 class Arrays{
